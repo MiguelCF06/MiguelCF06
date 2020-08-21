@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github.com/MiguelCF06/MiguelCF06/raw/master/BannerGif.gif" width="700" height="300" />
   
-### Hi there 👋
+### Hi there. Welcome to my profile 👋
 **Full Stack Software Engineer Student in Holberton School**
 <br/>
 </div>
