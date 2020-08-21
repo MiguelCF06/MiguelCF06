@@ -7,7 +7,7 @@
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
-        <a href="https://github.com/MiguelCF06"> <img  width="450" height="224" img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCF06&theme=radical&hide=glsl,python=true&title_color=7C00DD&icon_color=7C00DD&text_color=FFFFFF&bg_color=000000" /> 
+        <a href="https://github.com/MiguelCF06"> <img  width="650" height="224" img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCF06&theme=radical&hide=glsl,python=true&title_color=7C00DD&icon_color=7C00DD&text_color=FFFFFF&bg_color=000000" /> 
 </a>
     </div>
    <br/>
