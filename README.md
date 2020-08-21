@@ -17,12 +17,18 @@
 </a>
     </div>
 <br>
-
-<div  align="right">
-  <h3  align="right">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
-</div>
 <p align="right">
-<!--
+<a href="mailto:miguel.cipamocha@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+ <!-- github -->
+   <a href="https://github.com/MiguelCF06"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/miguel-cipamocha/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+<!-- discord -->
+ <a href="https://discord.com/users/Miguel_C06#9030"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+<!-- twitter -->
+  <a href="https://twitter.com/Miguel_C06"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/twitter.svg" width="30px" alt="Twitter"> </a> &nbsp; &nbsp;
+<!-- instagram -->
+<a href="https://www.instagram.com/miguel_c6/"><img src="https://github.com/hargun79/hargun79/blob/master/Assets/Instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
+</p>
 **MiguelCF06/MiguelCF06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
