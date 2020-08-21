@@ -1,6 +1,7 @@
 <div align="center"><img src="https://github.com/MiguelCF06/MiguelCF06/raw/master/BannerGif.gif" width="700" height="300" />
+  
 ### Hi there 👋
-
+** Full Stack Software Engineer Student in Holberton School**
 <!--
 **MiguelCF06/MiguelCF06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
