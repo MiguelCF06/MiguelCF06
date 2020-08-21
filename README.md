@@ -16,6 +16,12 @@
   <a href="https://github.com/ashwanisng">
 </a>
     </div>
+<br>
+
+<div  align="right">
+  <h3  align="right">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+<p align="right">
 <!--
 **MiguelCF06/MiguelCF06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
