@@ -17,7 +17,7 @@
 </a>
     </div>
 <br>
-<p align="right">
+<p align="bottom">
 <a href="mailto:miguel.cipamocha@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
  <!-- github -->
    <a href="https://github.com/MiguelCF06"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
